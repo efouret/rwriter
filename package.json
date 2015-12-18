@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/efouret/rwriter/issues"
   },
-  "homepage": "https://github.com/efouret/rwriter#readme"
+  "homepage": "https://github.com/efouret/rwriter#readme",
+  "devDependencies": {
+    "babel-core": "^6.3.21",
+    "babel-loader": "^6.2.0",
+    "webpack": "^1.12.9"
+  }
 }
