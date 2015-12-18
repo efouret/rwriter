@@ -1,0 +1,19 @@
+{
+  "name": "rwriter",
+  "version": "0.0.1",
+  "description": "Webapp to write novels/short stories/...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efouret/rwriter.git"
+  },
+  "author": "Erwan Fouret",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efouret/rwriter/issues"
+  },
+  "homepage": "https://github.com/efouret/rwriter#readme"
+}
