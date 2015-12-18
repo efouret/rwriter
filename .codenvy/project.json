@@ -1,0 +1,1 @@
+{"mixinTypes":[],"builders":{"configs":{}},"runners":{"configs":{},"default":"system:/javascript/web/gulp"},"description":"Tool to write novels/short stories/...","type":"GulpJS","attributes":{"framework":["BasicJS"],"language":["javascript"]}}
